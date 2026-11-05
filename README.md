@@ -1,5 +1,11 @@
 # 💫 About Me:
-I’m a Computer Science student at CSUN with a 4.0 GPA who enjoys building intelligent, real-world software. My main interests are AI/ML, computer vision, full-stack development, and accessibility-focused products. I work mostly with Python, C++, JavaScript, FastAPI, TensorFlow, and PyTorch, and I like turning ideas into practical projects such as AI chat assistants, computer vision systems, IoT tools, and responsive web apps. I’m especially interested in building technology that is useful, human-centered, and impactful.
+I'm currently pursuing my **Master of Science in Artificial Intelligence at the University of Southern California (USC)**, with a background in Computer Science from California State University, Northridge (CSUN).
+
+My primary interests include **Artificial Intelligence, Machine Learning, Computer Vision, Robotics, and Full-Stack Software Engineering**. I'm involved in graduate-level robotics research and independently developing **AutoStitch**, an AI-powered video editing and content repurposing platform.
+
+I work with technologies including **Python, C++, TypeScript, React, Node.js, FastAPI, PyTorch, TensorFlow, and FFmpeg**, with a focus on building intelligent, scalable, and practical applications.
+
+I'm passionate about transforming complex ideas into real-world software, exploring emerging AI technologies, and developing solutions that make a meaningful impact.
 
 
 ## 🌐 Socials:
